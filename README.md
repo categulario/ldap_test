@@ -9,4 +9,5 @@ An example of how one can connect to a LDAP directory server and validate someon
 * `virtualenv -p /usr/bin/python3 .env`
 * `export LDAP_SETTINGS=$(pwd)/settings_local.py`
 * `source .env/bin/activate`
+* `pip install -r requirements.txt`
 * `python ldaplap.py`

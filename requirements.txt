@@ -1,0 +1,2 @@
+python-ldap==3.0.0b4
+itacate==1.0.3
